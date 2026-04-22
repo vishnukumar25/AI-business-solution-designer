@@ -1,0 +1,5 @@
+streamlit
+groq
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
